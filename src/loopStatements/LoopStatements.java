@@ -1,4 +1,4 @@
-package conditional.statements;
+package loopStatements;
 
 public class LoopStatements {
 	
