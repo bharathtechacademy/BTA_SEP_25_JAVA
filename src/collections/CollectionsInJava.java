@@ -225,6 +225,8 @@ public class CollectionsInJava {
 		// Null values :  Allowed
 		// Null Keys :  Allowed
 		
+		Map<Integer, Map<String,Map<Byte,Short>>> sampleMap = new HashMap<Integer,Map<String,Map<Byte,Short>>>();
+		
 		//Store Employee names & Emp Id's using HashMap
 		Map<String, Integer> empNamesHashMap = new HashMap<String,Integer>();
 		empNamesHashMap.put("Bharath", 101);

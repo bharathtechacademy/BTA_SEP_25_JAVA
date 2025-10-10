@@ -5,8 +5,8 @@ public class Assignment3_EmpGroups{
 	public static void main(String[] args) {
 		//Create object of Employees class
 		Assignment3_Employees obj = new Assignment3_Employees();
-		
-		//Access the data and store in arrays
+
+		// Access the data and store in arrays
 		String[] employeeNames = new String[3];
 		employeeNames[0] = obj.employeeName1;
 		employeeNames[1] = obj.employeeName2;
@@ -17,7 +17,7 @@ public class Assignment3_EmpGroups{
 		employeeIDs[1] = obj.employeeID2;
 		employeeIDs[2] = obj.employeeID3;
 
-		//Print the data
+		// Print the data
 		System.out.println(employeeNames[0] + " : " + employeeIDs[0]);
 
 	}

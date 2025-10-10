@@ -4,6 +4,12 @@ public class ArrayExamples {
 
 	public static void main(String[] args) {
 		
+		//Array : an array is a data structure that can hold multiple values with similar data types together in a same memory location by following contiguous memory allocation.
+		
+		
+		//Array indexes start from 0 always. And maximum index can be length-1;
+		
+		
 		//1D Array
 		
 		//Syntax : When we know the values
@@ -24,7 +30,7 @@ public class ArrayExamples {
 	//	countries[5] = "Canada"; //ArrayIndexOutOfBoundsException
 		
 		
-		//2D Array
+		//2D Array  ==> Arrays inside an array
 		
 		String empData[][] = {
 				{"John", "Smith"},//project 1
