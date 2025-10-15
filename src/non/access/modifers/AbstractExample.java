@@ -12,6 +12,8 @@ public abstract class AbstractExample {
 		System.out.println("Logout from application");
 		System.out.println("Close the browser");
 	}
+	
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
